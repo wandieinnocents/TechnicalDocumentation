@@ -1,29 +1,15 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Getting Started](README.md)
 
-## Guides
+## Environment Setup
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Install Chocolatey](environment-setup/install-chocolatey.md)
+* [Install NodeJs](environment-setup/install-nodejs.md)
+* [Install Python](environment-setup/install-python.md)
+* [Install React Native CLI](environment-setup/install-react-native-cli.md)
+* [Install JDK](environment-setup/install-jdk.md)
 
-## Fundamentals
+## ANDROID STUDIO
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Setup Android Studio](android-studio/setup-android-studio.md)
